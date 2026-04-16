@@ -20,7 +20,7 @@ Building scalable REST APIs & production-ready backend systems.
 <h2>🛠 Tech Stack</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,git,github,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,sqlite,git,github,linux,vscode,postman" />
 </p>
 
 <hr/>
@@ -38,5 +38,5 @@ Building scalable REST APIs & production-ready backend systems.
 <h2>📫 Connect With Me</h2>
 
 <p>
-  <a href="(https://www.linkedin.com/in/ankit-kumar-191415207/)">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ankit-kumar-191415207/">LinkedIn</a>
 </p>
