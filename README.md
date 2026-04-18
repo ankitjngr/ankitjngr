@@ -20,7 +20,7 @@ Building scalable REST APIs & production-ready backend systems.
 <h2>🛠 Tech Stack</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,sqlite,git,github,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,sqlite,git,github,linux,vscode,postman,numpy" />
 </p>
 
 <hr/>
